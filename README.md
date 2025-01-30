@@ -1,0 +1,2 @@
+# FrinTrack
+Automate invoice processing
